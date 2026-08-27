@@ -6,6 +6,7 @@ Registro cronológico corto. Una entrada nueva arriba de todo, no se editan las 
 
 ## 2026-08-27
 
+- Se guarda en `02-Prompts/Claude-Code/` el prompt "Buenas prácticas de contexto" (1/3 de una serie), sobre cómo analizar qué se pierde entre sesiones y crear una estructura de memoria persistente (AGENTS.md, decisions/, state/, skills/, gotchas/, logs/).
 - Se crea la estructura de Bookstack para documentar diseño, prompts, procesos, decisiones, investigación, referencias y arquitectura del proyecto.
 - Carpeta conectada: `Bookstack_Cristi` (vacía al momento de crear la estructura).
 - Pendiente: conectar la carpeta del proyecto Android original (creado en Google AI Studio) para migrar `Design.md`, analizar la arquitectura actual y proponer el plan de conversión a app Android nativa.
