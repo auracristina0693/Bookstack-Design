@@ -1,12 +1,14 @@
 # 07 · Arquitectura
 
-La parte técnica: cómo está armado el proyecto y hacia dónde va.
+La parte técnica de cada proyecto: cómo está armado y hacia dónde va.
 
-## Qué va aquí
+## Cómo se organiza
 
-- **`Arquitectura-tecnica.md`** *(pendiente)* — estructura de carpetas del código, stack elegido, dependencias clave. Se redacta a partir del análisis del proyecto real una vez conectemos esa carpeta.
-- **`Migracion-desde-AI-Studio.md`** *(pendiente)* — qué funciones ofrecía Google AI Studio que hay que reemplazar o adaptar para que el proyecto funcione como app Android nativa, y el plan de mejora completo acordado.
+Cada proyecto con una arquitectura propia que documentar vive en su subcarpeta: `07-Arquitectura/<nombre-del-proyecto>/`. Dentro, típicamente:
+
+- **`Arquitectura-tecnica.md`** — estructura de carpetas del código, stack elegido, dependencias clave.
+- **`Plan-de-migracion.md`** *(cuando aplique)* — si un proyecto viene de otra herramienta (por ejemplo, de Google AI Studio a Android nativo), qué hay que reemplazar o adaptar, y el plan acordado.
 
 ## Por qué está vacío todavía
 
-Este libro depende de analizar el proyecto Android real (el que se originó en Google AI Studio). En cuanto esa carpeta esté conectada, este es el primer libro que se llena.
+Este libro depende de analizar cada proyecto real conforme se vaya conectando su carpeta. En cuanto haya un primer proyecto con arquitectura que documentar, este es el primer libro que se llena para ese proyecto.
