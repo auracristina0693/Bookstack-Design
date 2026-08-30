@@ -4,6 +4,10 @@ Registro cronológico corto. Una entrada nueva arriba de todo, no se editan las 
 
 ---
 
+## 2026-08-30
+
+- Se guarda en `02-Prompts/AI-Studio/` el prompt "Editar imagen exacta en Google AI Studio", para pedir un cambio puntual sobre una imagen ya subida (ej. reemplazar solo una foto o un screenshot) sin que el modelo regenere ni reinterprete el resto de la imagen.
+
 ## 2026-08-28
 
 - Se reemplaza el prompt "Buenas prácticas de contexto" en `02-Prompts/Claude-Code/2026-08-27-buenas-practicas-de-contexto.md`: la versión anterior solo tenía la parte 1/3 (incompleta); se sustituye por el prompt completo y unificado (partes 1/3, 2/3 y 3/3: análisis del proyecto, estructura de memoria persistente, contenido de AGENTS.md, reglas de comportamiento y resultado esperado).
